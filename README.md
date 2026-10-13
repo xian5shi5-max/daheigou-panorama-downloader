@@ -4,7 +4,7 @@ Windows 全景图片下载工具，支持建E网、3D溜溜网的公开全景资
 
 ## 下载
 
-前往 [Releases](https://github.com/xian5shi5-max/daheigou-panorama-downloader/releases) 下载最新版本的 `大黑狗全景下载软件.exe`。本软件为免安装单文件程序，下载后双击运行。
+前往 [Releases](https://github.com/xian5shi5-max/daheigou-panorama-downloader/releases) 下载最新版本中的 EXE 安装包（当前文件名为 `default.exe`）。本软件为免安装单文件程序，下载后双击运行。
 
 软件会在启动时检查新版本，也可以点击界面上的“检查更新”。发现新版后，可打开 Release 页面或直接下载 EXE。更新时请先退出旧版，再运行新下载的文件。
 
